@@ -1,0 +1,170 @@
+Feature: mean
+
+Support Vector Machine 
+Mean cross validation SVM: 0.4764957264957266
+Test accuracy SVM: 0.2
+Linear Discriminant Analysis 
+Mean cross validation LDA: 0.4764957264957266
+Test accuracy LDA: 0.2
+K Nearest Neighbour 
+Mean cross validation KNN: 0.5021367521367521
+Test accuracy KNN: 0.6
+Random Forest 
+Mean cross validation RF: 0.45085470085470086
+Test accuracy RF: 0.6
+Convolutional Neural Networks 
+Test set accuracy: 0.4
+EEGNet 
+Test set accuracy: 0.5333333373069763
+
+Feature: average_power
+
+Support Vector Machine 
+Mean cross validation SVM: 0.4764957264957266
+Test accuracy SVM: 0.2
+Linear Discriminant Analysis 
+Mean cross validation LDA: 0.4764957264957266
+Test accuracy LDA: 0.2
+K Nearest Neighbour 
+Mean cross validation KNN: 0.45085470085470086
+Test accuracy KNN: 0.3
+Random Forest 
+Mean cross validation RF: 0.4230769230769231
+Test accuracy RF: 0.3
+Convolutional Neural Networks 
+Test set accuracy: 0.7
+EEGNet 
+Test set accuracy: 0.3666666686534882
+
+Feature: var
+
+Support Vector Machine 
+Mean cross validation SVM: 0.4764957264957266
+Test accuracy SVM: 0.2
+Linear Discriminant Analysis 
+Mean cross validation LDA: 0.4764957264957266
+Test accuracy LDA: 0.0
+K Nearest Neighbour 
+Mean cross validation KNN: 0.5
+Test accuracy KNN: 0.5
+Random Forest 
+Mean cross validation RF: 0.5811965811965812
+Test accuracy RF: 0.5
+Convolutional Neural Networks 
+Test set accuracy: 0.33333333730697634
+EEGNet 
+Test set accuracy: 0.6333333373069763
+
+Feature: kurtosis
+
+Support Vector Machine 
+Mean cross validation SVM: 0.5021367521367521
+Test accuracy SVM: 0.3
+Linear Discriminant Analysis 
+Mean cross validation LDA: 0.3952991452991453
+Test accuracy LDA: 0.4
+K Nearest Neighbour 
+Mean cross validation KNN: 0.5277777777777778
+Test accuracy KNN: 0.4
+Random Forest 
+Mean cross validation RF: 0.3952991452991453
+Test accuracy RF: 0.4
+Convolutional Neural Networks 
+Test set accuracy: 0.3333333333333333
+EEGNet 
+Test set accuracy: 0.4166666666666667
+
+Feature: skew
+
+Support Vector Machine 
+Mean cross validation SVM: 0.5021367521367521
+Test accuracy SVM: 0.3
+Linear Discriminant Analysis 
+Mean cross validation LDA: 0.3952991452991453
+Test accuracy LDA: 0.4
+K Nearest Neighbour 
+Mean cross validation KNN: 0.5277777777777778
+Test accuracy KNN: 0.4
+Random Forest 
+Mean cross validation RF: 0.3952991452991453
+Test accuracy RF: 0.4
+Convolutional Neural Networks 
+Test set accuracy: 0.4166666666666667
+EEGNet 
+Test set accuracy: 0.4166666666666667
+
+Feature: theta_power 
+
+Support Vector Machine 
+Mean cross validation SVM: 0.5021367521367521
+Test accuracy SVM: 0.3
+Linear Discriminant Analysis 
+Mean cross validation LDA: 0.3952991452991453
+Test accuracy LDA: 0.4
+K Nearest Neighbour 
+Mean cross validation KNN: 0.5277777777777778
+Test accuracy KNN: 0.4
+Random Forest 
+Mean cross validation RF: 0.3952991452991453
+Test accuracy RF: 0.4
+Convolutional Neural Networks 
+Test set accuracy: 0.25
+EEGNet 
+Test set accuracy: 0.4166666666666667
+
+Feature: alpha_power 
+
+Support Vector Machine 
+Mean cross validation SVM: 0.4764957264957266
+Test accuracy SVM: 0.0
+Linear Discriminant Analysis 
+Mean cross validation LDA: 0.3653846153846154
+Test accuracy LDA: 0.2
+K Nearest Neighbour 
+Mean cross validation KNN: 0.4252136752136752
+Test accuracy KNN: 0.5
+Random Forest 
+Mean cross validation RF: 0.5021367521367521
+Test accuracy RF: 0.5
+Convolutional Neural Networks 
+Test set accuracy: 0.25
+EEGNet 
+Test set accuracy: 0.4166666666666667
+
+Feature: beta_power 
+
+Support Vector Machine 
+Mean cross validation SVM: 0.5576923076923077
+Test accuracy SVM: 0.6
+Linear Discriminant Analysis 
+Mean cross validation LDA: 0.4764957264957266
+Test accuracy LDA: 0.1
+K Nearest Neighbour 
+Mean cross validation KNN: 0.6367521367521367
+Test accuracy KNN: 0.5
+Random Forest 
+Mean cross validation RF: 0.69017094017094
+Test accuracy RF: 0.5
+Convolutional Neural Networks 
+Test set accuracy: 0.3333333333333333
+EEGNet 
+Test set accuracy: 0.5
+
+Feature: gamma_power 
+
+Support Vector Machine 
+Mean cross validation SVM: 0.5854700854700855
+Test accuracy SVM: 0.5
+Linear Discriminant Analysis 
+Mean cross validation LDA: 0.4764957264957266
+Test accuracy LDA: 0.2
+K Nearest Neighbour 
+Mean cross validation KNN: 0.5833333333333334
+Test accuracy KNN: 0.4
+Random Forest 
+Mean cross validation RF: 0.5021367521367521
+Test accuracy RF: 0.4
+Convolutional Neural Networks 
+Test set accuracy: 0.16666666666666666
+EEGNet 
+Test set accuracy: 0.5
